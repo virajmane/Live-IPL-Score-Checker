@@ -1,1 +1,1 @@
-worker: python3 IPL.py
+web: python3 IPL.py wsgi:app
