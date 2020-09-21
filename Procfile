@@ -1,1 +1,1 @@
-web: gunicorn wsgi:IPL
+ps:scale web=1
